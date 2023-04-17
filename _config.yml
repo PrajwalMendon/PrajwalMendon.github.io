@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Making Cents"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Prajwal Mendon"
-description              : "An amazing website."
+name                     : "Making Cents"
+description              : "Making sense of the world around me."
 url                      : "https://prajwalmendon.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "PrajwalMendon/prajwalmendon.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,50 +106,62 @@ analytics:
 author:
   name             : "Prajwal Mendon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Living my best life at the top of the bell curve."
+  location         : "Phoenix, AZ"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:prajwalmendon@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://prajwalmendon.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/ChubboTheCat"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/mendon.prajwal/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/PrajwalMendon"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/prajwalsmendon/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@pauseforeffect249"
+    - label: "Tiktok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@prajwal.mendon"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/ChubboTheCat"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/mendon.prajwal/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/PrajwalMendon"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   # url:
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/prajwalsmendon/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@pauseforeffect249"
+    - label: "Tiktok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@prajwal.mendon"
 
 
 # Reading Files
@@ -290,3 +302,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
