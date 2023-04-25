@@ -7,7 +7,7 @@ permalink: /about/
 
 Hi there, I'm Prajwal!
 
-Welcome to my site, where I share my musings and experiences on various topics that interest me.
+Welcome to Making Cents, a site where I share my musings and experiences on various topics that interest me. In general, just making sense of life.
 
 Personally that means thoughts and background across a lot of interests: magic, books, shows, climbing, Krav Maga, canyoneering, hiking, finance, real estate, and personal productivity.
 
